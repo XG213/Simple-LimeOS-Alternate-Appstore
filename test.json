@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "name": "Test-icle",
+      "code": "https://raw.githubusercontent.com/XG213/Simple-LimeOS-Alternate-Appstore/main/test.lua",
+    }
+  ]
+}
